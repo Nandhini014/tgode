@@ -1,5 +1,7 @@
 package com.journaldev.json.write;
 
+
+
 import java.io.FileWriter;
 import java.io.IOException;
 
